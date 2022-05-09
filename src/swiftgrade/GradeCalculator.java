@@ -1,7 +1,7 @@
 package swiftgrade;
 
 /**
- *
+ * Changed on 5-8
  * @author Califf McBride 5-1-2022
  */
 public class GradeCalculator {
